@@ -3,15 +3,15 @@ A desktop application that helps users revise. Users have the ability to create 
   
 ## Installation
 ### Packaged Download
-You can download the software [from the official website here](https://realhuman101.github.io/FRS/downloads/) or [from Github here](https://github.com/realhuman101/FRS/releases)
+You can download the software [from the official website here](https://bannev1.github.io/FRS/downloads/) or [from Github here](https://github.com/bannev1/FRS/releases)
 ### Download with Git and npm
-- `git clone https://github.com/realhuman101/FRS.git`
+- `git clone https://github.com/bannev1/FRS.git`
 - `npm i`
 - `npm i -D`
 - `npm run start`
 
 ## Bugs and Issues
-If you ever encounter a bug or an issue, please create a new issue [here](https://github.com/realhuman101/FRS/issues)  
+If you ever encounter a bug or an issue, please create a new issue [here](https://github.com/bannev1/FRS/issues)  
 
 ## Screenshots
 ### Homepage
